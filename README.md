@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Shell Scripting**
 
-- 💬 Ask me about **HTML**
+- 💬 Ask me about **Devops and Cloud**
 
 - 📫 How to reach me **phalak708070@gmail.com**
 
